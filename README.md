@@ -86,8 +86,3 @@ The `EcommercePipeline` class implements a 2-step pipeline:
 - Product-level Performance
 - Return Rates by Category
 - Regional Breakdown
-
-## Resume Bullets This Covers
-- ✅ Built a scalable **data processing pipeline** to clean, transform, and structure raw transactional datasets
-- ✅ Utilized **SQL-style aggregations in Python/Pandas** for filtering, grouping, and trend analysis on 5,000+ row datasets
-- ✅ Developed **data visualizations and reports** highlighting key metrics: revenue trends, product performance, return rates
